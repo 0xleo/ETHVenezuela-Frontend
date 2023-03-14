@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'MontserratBold';
+    src: url('Montserrat-Bold-DeFi.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Light.ttf') format('truetype');
+  }
+
+.titulo {
+    font-family: 'MontserratBold', sans-serif;
+    font-size: 3.0vw;
+    text-align: center;
+    color: rgb(198, 198, 198);
+  }
+@media screen and (max-width:1000px) {
+  .titulo {
+    margin-top: 20vw;
+    font-size: 5.7vw;
+  } 
+}
+
+.sub_Titulo {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.0vw;
+  text-align: center;
+  color: rgb(198, 198, 198);
+}
+@media screen and (max-width:1000px) {
+  .sub_Titulo  {
+    margin-top: 5vw;
+    font-size: 2vw;
+  } 
+}
+
+
+
+
+
+  .coinETH {
+    margin-top: 5%;
+    margin-left: 37%;
+      width: 25vw;
+      margin-bottom: 20%;
+    }
+
+    @media screen and (max-width:1000px) {
+      .coinETH {
+        margin-top: 5%;
+        margin-left: 34.3%;
+        width: 30vw;
+        margin-bottom: 20%;
+      }
+    }
+
+    @media screen and (max-width:700px) {
+      .coinETH {
+        margin-top: 5%;
+        margin-left: 28.4%;
+          width: 42vw;
+          margin-bottom: 20%;
+        }
+    }
+
+    @media screen and (max-width:550px) {
+      .coinETH {
+        margin-top: 5%;
+        margin-left: 28%;
+          width: 42vw;
+          margin-bottom: 20%;
+        }
+    }
+  
+  @media screen and (max-width:200px) {
+    .coinETH {
+      display: none;
+    } 
+  }  
+
+
+  .coinETH {
+    display: none;
+  } 
+
