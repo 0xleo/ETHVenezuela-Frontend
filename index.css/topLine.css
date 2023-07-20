@@ -10,6 +10,11 @@
     animation: wave-background 3s ease infinite;
     text-decoration: none;
     -webkit-tap-highlight-color: transparent;
+
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer */
+    user-select: none; /* Other browsers */  
   }
 
   
