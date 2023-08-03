@@ -448,9 +448,9 @@ body {
 
   .contentBtn  .twitterIcon {
     margin-bottom: 51vw;
-    padding: 0.80em;
+    padding: 0.10em;
     border-radius: 10px;
-    background: rgb(0, 149, 255);
+    background: rgb(122, 200, 255);
     color: rgb(0, 0, 0);
     max-width: 9vw;
     max-height: 9vw;
@@ -487,9 +487,9 @@ body {
 
   .contentBtn .twitterIcon {
     margin-bottom: 27vw;
-    padding: 0.80em;
+    padding: 0.10em;
     border-radius: 10px;
-    background: rgb(0, 149, 255);
+    background: rgb(122, 200, 255);
     color: rgb(0, 0, 0);
     max-width: 5vw;
     max-height: 5vw;
